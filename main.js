@@ -26,7 +26,7 @@ document.querySelector("#cards").innerHTML =
     "24/11",
     "quinta",
     CreatGame("switzerland", "07:00", "cameroon") +
-      CreatGame("Uruguay", "10:00", "south-korea") +
+      CreatGame("uruguay", "10:00", "south-korea") +
       CreatGame("portugal", "13:00", "ghana") +
       CreatGame("serbia", "16:00", "brazil")
   ) +
